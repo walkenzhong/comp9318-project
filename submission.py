@@ -3,7 +3,7 @@ import time
 import scipy.spatial
 import numpy as np
 import copy
-
+#codes结果有问题
 def pq(data, P, init_centroids, max_iter):
     #split_data
     dimensionality = len(data[0])
