@@ -19,3 +19,7 @@ part two query
 1. input queries的切割(doing)  
 2. queries与codebooks的L1距离计算(doing)
 3. 多维距离集合立方体的生成(thinking)
+
+
+## 20200424
+finish all part
